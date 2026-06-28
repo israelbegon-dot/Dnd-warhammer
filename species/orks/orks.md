@@ -59,19 +59,19 @@ Level 1: Green tweakz
 Starting from a mekboy’s maturity, their mek starts in a small proportion. As an action they can add certain but only one aspectz to weaponz and Kartz (Vehicles), as well as dur, as long as he has his mek tools in hand,  granting each item a special buff. This power grants you the title of Spanner. The number of modifications for items is equal to the proficiency bonus plus half the levels in Mekboy (Rounded up). A mek can recover the uses of this ability after a long rest. The following modifications for the items are the following.
 
 Red Paint
-Red paint to any vehicles or units gives them a 1.2x boost in movement speed
+Red paint to any vehicles or units gives them a 1.5x boost in movement speed
 Blue Paint
-Blue Paint gives a +1 bonus to any saving throw, if the saving throw is a success the painting falls off.
+Blue Paint gives a +3 bonus to any saving throw, if the saving throw is a success the painting falls off.
 Purple Paint
-Purple paint on units allows them to throw an extra 1d4 for stealth checks. If the check is a success the paint falls off
+Purple paint on units allows them to throw an extra 1d6 for stealth checks. If the check is a success the paint falls off
 Yellow Paint
-Yellow paint adds a 1.2x damage multiplier on hits above a 14
+Yellow paint adds a 1.5x to damage
 Black and white grid
-The grids add a +1 to initiative when orks initiate combat
+The grids add a +2 to initiative when orks initiate combat
 Car spikes
-Adds a 1d4 to damage when running someone over with a car with spikes and prevents the car from losing momentum
+Adds a 1d8 to damage when running someone over with a car with spikes and prevents the car from losing momentum
 Black Paint
-Adding black paint to any unit will increase their toughness and give them 1d4 temporal hit points
+Adding black paint to any unit will increase their toughness and give them 1d12 temporal hit points
 
 
 Level 3: Da big gunz
