@@ -95,17 +95,14 @@ telecommunication prof
 +3 cha
 
 **Begginner psyker**
--1 all stats
-+2 cha
-Has lv1 sorcerer spells
+Lv1 psyker, check the class page
 
 **Medium psykers**
-+2 cha
-Has lv2 sorcerer spells
+Lv2 psyker, check the class page
 
 **Advanced psykers**
 +3 cha
-Has lv3 sorcerer spells
+Lv 3 psyker, check the class page
 
 **Artillery (mortar)**:
 Mortar training
