@@ -27,7 +27,7 @@ Da speed freeks love karts and if a speed freek is driving they have advantage i
 Sumboyz
 Da sumboyz handle teef and know how to sum and stuff, they can count and have +2 intelligence to normal boyz.
 Yellerz
-Da yellerz track about da Gogz Gork an’ Mork, they have advantage on religion saving throws and they can inspire da boyz’s morale.
+Da yellerz track about da Gogz Gork an’ Mork, they have advantage on religion saving throws
 Brewboyz
 Da brewboyz cook really orky an’ make da boyz happy.
 
@@ -43,7 +43,7 @@ Level 3: Fungi go!
 At 3rd level da orkz begin to release spores on da planetas they visit, allowing for a massive wave of orks to continuously attack the planet.
 
 Level 5: Stronger waagh!
-Any 5th level ork will gain a temporary +2 to strength and 15 additional hit points if they are in an active waagh.
+Any 5th level ork will gain a temporary +2 to strength and 20 additional hit points if they are in an active waagh.
 Multiattack (1)
 
 Level 8: Naa Skab Orks.
@@ -54,12 +54,16 @@ At level 14, orks become nobs and can command da other boyz with more ease. +1d1
 
 Level 16: Boss hour.
 Starting at level 16, you become the very bosses you used to serve, you can start your own waaagh and gain a +1d20 to gather orks without having to fight. Also orkz from other planets start joining voluntarily to your crew if you have a waaagh of over 5 million orkz.
+
+Lv20: The inmmaculate krorks.
+At level 20, your intelect reaches the outskirts of the impossible, going to at least 20 but it rises with each level you already had. Your strength and constitution if not already 30 becomes 30, your strength matches primarchs.
+
 Mekboys:
 Level 1: Green tweakz
 Starting from a mekboy’s maturity, their mek starts in a small proportion. As an action they can add certain but only one aspectz to weaponz and Kartz (Vehicles), as well as dur, as long as he has his mek tools in hand,  granting each item a special buff. This power grants you the title of Spanner. The number of modifications for items is equal to the proficiency bonus plus half the levels in Mekboy (Rounded up). A mek can recover the uses of this ability after a long rest. The following modifications for the items are the following.
 
 Red Paint
-Red paint to any vehicles or units gives them a 1.5x boost in movement speed
+Red paint to any vehicles or units gives them a 2x boost in movement speed
 Blue Paint
 Blue Paint gives a +3 bonus to any saving throw, if the saving throw is a success the painting falls off.
 Purple Paint
@@ -90,10 +94,6 @@ As a mek-boss you can use the powers of any waaagh you start and use them to con
 
 Notes: Any mek can make any build but the time, money and effort needed are insanely larger if you are a low level mek.
 
-
-
-
-Vocabulario Orko
 
 
 
