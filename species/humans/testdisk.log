@@ -1,0 +1,54 @@
+
+
+Sat Jun 27 21:39:26 2026
+Command line: TestDisk
+
+TestDisk 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 6.6.87.2-microsoft-standard-WSL2 (#1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025) x86_64
+Compiler: GCC 15.2
+ext2fs lib: 1.47.2, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.6
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop0 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop1 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop2 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop3 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop4 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop5 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop6 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop7 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 407 MB / 388 MiB - CHS 49 255 63 (RO), sector size=512 - Virtual Disk, FW:1.0
+Disk /dev/sdb - 195 MB / 186 MiB - CHS 23 255 63 (RO), sector size=512 - Virtual Disk, FW:1.0
+Disk /dev/sdc - 1073 MB / 1024 MiB - CHS 130 255 63, sector size=512 - Virtual Disk, FW:1.0
+Disk /dev/sdd - 1099 GB / 1024 GiB - CHS 133674 255 63, sector size=512 - Virtual Disk, FW:1.0
+
+Partition table type (auto): None
+Media is opened in read-only.
+Disk /dev/sda - 407 MB / 388 MiB (RO) - Virtual Disk
+Partition table type: Intel
+
+Interface Advanced
+
+Analyse Disk /dev/sda - 407 MB / 388 MiB - CHS 49 255 63 (RO)
+Current partition structure:
+
+Partition sector doesn't have the endmark 0xAA55
+
+search_part()
+Disk /dev/sda - 407 MB / 388 MiB - CHS 49 255 63 (RO)
+
+Results
+
+interface_write()
+ 
+No partition found or selected for recovery
+simulate write!
+
+write_mbr_i386: starting...
+Store new MBR code
+write_all_log_i386: starting...
+No extended partition
+
+TestDisk exited normally.
