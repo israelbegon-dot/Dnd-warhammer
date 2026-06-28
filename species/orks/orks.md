@@ -3,6 +3,7 @@ Da orkz are da orkyest boyz in all of da warp, bad, garg an’ orky.
 Any of da boyz grows garg over time after dredging da skum.
 Every time you finish a great battle you gain +1 str and +1 con and gain an additional feet of height
 Every boy starts with an average intelligence of 6 and it grows 1 point for every million orks involved in da collective waaaagh.
+Orks use de d12 for hp and hit dice
 
 
 Oddboyz:
