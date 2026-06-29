@@ -2,9 +2,9 @@
 (Sergeant)
 Flak Armour: 12 AC
 Laspistol: 3d6 radiant, 24 inches
-Frag Grenades: As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher,    
-    the character can propel the grenade up to 120 feet away.
-    Each creature within 20 feet of an exploding fragmentation grenade must make a DC 15 Dexterity saving throw, taking 5d6 piercing damage on a failed save, or half as much damage on a successful one.
+Frag Grenades: As an action, a character can throw a grenade at a point up to 12 inches away. With a grenade 
+    launcher, the character can propel the grenade up to 24 inches away.
+    Each creature within 4 inches of an exploding fragmentation grenade must make a DC 15 Dexterity saving throw, taking 5d6 piercing damage on a failed save, or half as much damage on a successful one.
 Chainsword: 2d6 slashing
 Power Sword: 3d6 radiant
 Bolt Pistol: 2d8 piercing, 12 inches
@@ -32,10 +32,11 @@ Autocannon: Large object
 
     An autocannon is a fully automatic vehicle-mounted weapon, half-way between a machine gun and a field gun or other artillery piece in form and function; notably, unlike a machine gun, it fires armor piercing or explosive shells rather than bullets. Medium autocannons are somewhere in the 30mm to 37mm range. A medium autocannon can be aimed and fired in a single action; once it has fired 200 shots, it takes an action to reload it. Typically, a designated loader does the job, allowing for the gunner to keep on firing uninterrupted.
 
-    Medium Autocannon: Ranged Weapon Attack: +7 to hit, range 800 inches, one target. Hit: 45 (10d8) piercing damage. This attack has the burst fire and armor piercing (-4) properties
+    Medium Autocannon: Ranged Weapon Attack: +7 to hit, range 80 inches, one target. Hit: 45 (10d8) piercing damage. This attack has the burst fire and armor piercing (-4) properties
 Heavy Bolter: 5d8 piercing, 36 inches
 Missile Launcher:5d8 fire, 53 inches
 Lascannon: 4d8 radiant, 30 inches
 Sniper Rifle: 2d12 piercing, 200 inches
 Flamer: 5d6 fire, 12 inches
 Meltagun: 5d8 fire, 6 inches
+Power fist: 4d8 + 2d4 bludgeoning
